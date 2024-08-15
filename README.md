@@ -1,3 +1,3 @@
-<div align="center">
-![Header](./assets/header.png)
-</div>
+<p align="center">
+  <img src="./assets/header.png" alt="Header">
+</p>
