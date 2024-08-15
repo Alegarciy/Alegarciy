@@ -5,9 +5,8 @@
 <details>
 
   <summary><b>🛠️ Tools & Languages</b></summary>
-
+  <br></br>
   <details>
-    </br>
     <summary>🧰 Version Control</summary>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" width="40" height="40"/> </a>
