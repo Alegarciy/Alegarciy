@@ -68,7 +68,7 @@
 
   <details>
     <summary>☁️  Cloud</summary>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="AWS" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" width="40" height="40"/> </a>
   </details>
 
