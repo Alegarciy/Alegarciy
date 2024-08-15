@@ -4,8 +4,7 @@
 
 <details>
 
-  <summary><h2><b>🛠️ Tools & Languages</b></h2></summary>
-  <p>This are the tools i have experience, not an expert on any of them but i enjoy them. <br> </p>
+  <summary><b>🛠️ Tools & Languages</b><br></summary>
 
   <details>
     <summary>🧰 Version Control</summary>
