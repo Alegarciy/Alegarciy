@@ -4,7 +4,7 @@
 
 <details>
 
-  <summary><b>🛠️ Tools & Languages</b></summary>
+  <summary><b>🛠️  ##Tools & Languages </b></summary>
   <p>This are the tools i have experience, not an expert on any of them but i enjoy them. <br> </p>
 
   <details>
