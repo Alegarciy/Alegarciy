@@ -5,6 +5,7 @@
 <details>
 
   <summary><b>🛠️ Tools & Languages</b><br></summary>
+  <p>This are the tools i have experience, not an expert on any of them but i enjoy them. <br> </p>
 
   <details>
     <summary>🧰 Version Control</summary>
