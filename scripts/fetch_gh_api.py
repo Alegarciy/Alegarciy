@@ -5,7 +5,7 @@ import requests
 # Constants
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 GITHUB_USERNAME = "Alegarciy"
-README_PATH = "../README.md"
+README_PATH = "README.md"
 SECTION_TITLE = "### Latest Repositories"
 
 # GitHub API URL
