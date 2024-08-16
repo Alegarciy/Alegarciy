@@ -8,7 +8,7 @@ GITHUB_USERNAME = "Alegarciy"
 README_PATH = "README.md"
 SECTION_TITLE = "### Latest Repositories"
 
-# GitHub API URL
+# GitHub URL API
 api_url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?sort=updated&per_page=5"
 
 # Headers with authentication
