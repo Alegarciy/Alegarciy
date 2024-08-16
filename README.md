@@ -2,6 +2,8 @@
   <img src="./assets/header.png" alt="Header">
 </p>
 
+---
+
 <details>
 
   <summary><b>🛠️ Tools & Languages</b><br></summary>
