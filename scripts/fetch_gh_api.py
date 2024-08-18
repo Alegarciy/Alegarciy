@@ -6,7 +6,7 @@ import requests
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 GITHUB_USERNAME = "alegarciy"
 README_PATH = "README.md"
-SECTION_TITLE = "### Latest Repositories"
+SECTION_TITLE = "## Latest Repositories"
 
 # GitHub API URL
 api_url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?sort=updated&per_page=5"
