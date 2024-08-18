@@ -180,7 +180,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
-          <img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" width="40" height="40" alt="Pyspark" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="40" height="40" alt="Pyspark" />
         </a>
         <br>Pyspark
       </td>
