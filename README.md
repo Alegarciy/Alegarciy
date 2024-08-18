@@ -281,7 +281,7 @@
 
 <details>
   <summary><b>See my stats 📈</b><br></summary>
-  <p>This are some of my stats, but I still need to work a little bit on them.</p>
+  <p>This are some of my non-work stats. They need a little love but I'm sure with time they will show better results.</p>
 
   <br>
   <p align="center">
