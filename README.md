@@ -92,14 +92,7 @@
 - [Uni-SemIV-LexicGraphAlgo-Case_04](https://github.com/Alegarciy/Uni-SemIV-LexicGraphAlgo-Case_04)
 - [Uni-SemIV-Flores_Algoritmos](https://github.com/Alegarciy/Uni-SemIV-Flores_Algoritmos)
 
+<br>
 <a href="https://buymeacoffee.com/alegarciyt" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
-
-<br>
-### Latest Repositories
-- [Alegarciy](https://github.com/Alegarciy/Alegarciy)
-- [2024-neovim-configurations](https://github.com/Alegarciy/2024-neovim-configurations)
-- [Youtube_Live_Data_Extractor](https://github.com/Alegarciy/Youtube_Live_Data_Extractor)
-- [Uni-SemIV-LexicGraphAlgo-Case_04](https://github.com/Alegarciy/Uni-SemIV-LexicGraphAlgo-Case_04)
-- [Uni-SemIV-Flores_Algoritmos](https://github.com/Alegarciy/Uni-SemIV-Flores_Algoritmos)
