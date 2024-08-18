@@ -7,9 +7,11 @@
 
 ---
 
+## 🛠️ Tools & Languages
+
 <details>
 
-  <summary><b>🛠️ Tools & Languages</b><br></summary>
+  <summary><b>Curious about my experience?</b><br></summary>
   <p>This are the tools i have experience, not an expert on any of them but i enjoy them. <br> </p>
 
   <details>
@@ -92,7 +94,7 @@
 </a>
 
 
-### Latest Repositories
+## Latest Repositories
 - [Alegarciy](https://github.com/Alegarciy/Alegarciy)
 - [2024-neovim-configurations](https://github.com/Alegarciy/2024-neovim-configurations)
 - [Youtube_Live_Data_Extractor](https://github.com/Alegarciy/Youtube_Live_Data_Extractor)
