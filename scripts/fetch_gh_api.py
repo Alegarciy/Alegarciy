@@ -4,11 +4,11 @@ import requests
 
 # Constants
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-GITHUB_USERNAME = "Alegarciy"
+GITHUB_USERNAME = "alegarciy"
 README_PATH = "README.md"
 SECTION_TITLE = "### Latest Repositories"
 
-# GitHub URL API
+# GitHub API URL
 api_url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?sort=updated&per_page=5"
 
 # Headers with authentication
@@ -28,25 +28,31 @@ def fetch_latest_repos():
         return []
 
 def update_readme(repos):
-    """Update the README.md file with the latest repositories."""
+    """Update the README.md file by replacing the Latest Repositories section."""
     if not repos:
         return
 
     with open(README_PATH, "r") as file:
         readme_content = file.readlines()
 
-    # Find where the latest repos section starts
+    # Find the section marker in the README
     try:
         section_start_index = readme_content.index(f"{SECTION_TITLE}\n")
     except ValueError:
-        # If the section doesn't exist, add it to the end
-        section_start_index = len(readme_content)
-        readme_content.append(f"\n{SECTION_TITLE}\n")
+        # If the section doesn't exist, raise an error
+        raise ValueError(f"Section '{SECTION_TITLE}' not found in README.md")
 
-    # Replace the content after the section title
+    # Define the end of the section (start of the next section or end of file)
+    section_end_index = section_start_index + 1
+    while section_end_index < len(readme_content) and readme_content[section_end_index].startswith("- "):
+        section_end_index += 1
+
+    # Replace the content in the Latest Repositories section
     updated_content = readme_content[:section_start_index + 1]
     for repo_name, repo_url in repos:
         updated_content.append(f"- [{repo_name}]({repo_url})\n")
+    
+    updated_content.extend(readme_content[section_end_index:])
 
     # Write the updated content back to the README.md
     with open(README_PATH, "w") as file:
