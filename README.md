@@ -5,13 +5,11 @@
   <a href="https://www.linkedin.com/in/alejandro-garc%C3%ADa-108885205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
----
-
 ## 🛠️ Tools & Languages
 
 <details>
 
-  <summary><b>Curious about my experience?</b><br></summary>
+  <summary><b>Toggle to see the tools 👀</b><br></summary>
   <p>This are the tools i have experience, not an expert on any of them but i enjoy them. <br> </p>
 
   <details>
@@ -87,16 +85,14 @@
 
 </details>
 
----
-
-<a href="https://buymeacoffee.com/alegarciyt" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
-
-
 ## Latest Repositories
 - [Alegarciy](https://github.com/Alegarciy/Alegarciy)
 - [2024-neovim-configurations](https://github.com/Alegarciy/2024-neovim-configurations)
 - [Youtube_Live_Data_Extractor](https://github.com/Alegarciy/Youtube_Live_Data_Extractor)
 - [Uni-SemIV-LexicGraphAlgo-Case_04](https://github.com/Alegarciy/Uni-SemIV-LexicGraphAlgo-Case_04)
 - [Uni-SemIV-Flores_Algoritmos](https://github.com/Alegarciy/Uni-SemIV-Flores_Algoritmos)
+
+
+<a href="https://buymeacoffee.com/alegarciyt" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
