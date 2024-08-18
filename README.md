@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Header">
+
+  <img src="./assets/alejandro-introduction.png" alt="Header">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20and%20Software%20Engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Header">
   <br>
   <a href="https://twitter.com/alegarciy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/alejandro-garc%C3%ADa-108885205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
