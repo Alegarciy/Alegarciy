@@ -50,7 +50,7 @@
         <a href="https://code.visualstudio.com/" target="_blank">
           <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" alt="Visual Studio Code" />
         </a>
-        <br>Visual Studio Code
+        <br>VScode 
       </td>
       <td align="center" width="96">
         <a href="https://www.postman.com/" target="_blank">
@@ -68,7 +68,7 @@
         <a href="https://jupyter.org/" target="_blank">
           <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" alt="Jupyter Notebook" />
         </a>
-        <br>Jupyter Notebook
+        <br>Jupyter 
       </td>
     </tr>
   </table>
