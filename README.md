@@ -6,3 +6,5 @@
     alt="Codewars badge"
   />
 </a>
+
+<a href="https://alegarciy.github.io/shire-portal/">Go to the Shire</a>
